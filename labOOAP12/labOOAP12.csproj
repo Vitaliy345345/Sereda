@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="hello.cs" />
     <Compile Include="mkr_change_branch.cs" />
     <Compile Include="Position.cs" />
     <Compile Include="Program.cs" />
